@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 
 from nnet import modules as model
-from nnet import options as opt
+import options as opt
 
 class YOLO_tiny(object):
 
